@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TUNFD_Example' do
+  pod 'TUNFD', :path => '../'
+
+  target 'TUNFD_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

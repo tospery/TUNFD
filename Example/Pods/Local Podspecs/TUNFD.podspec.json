@@ -1,0 +1,22 @@
+{
+  "name": "TUNFD",
+  "version": "0.1.0",
+  "summary": "A short description of TUNFD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yangjianxiang/TUNFD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangjianxiang": "tospery@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yangjianxiang/TUNFD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TUNFD/Classes/**/*"
+}
